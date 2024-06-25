@@ -66,9 +66,6 @@ This project aims to use MBTI (Myers-Briggs Type Indicator) characteristics to e
 
 ## Repository Structure
 ```plaintext
-|-- data/
-    |-- MBTI 500.csv
-    |-- media_data.csv
 |-- notebooks/
     |-- CBF_Keyword.ipynb
     |-- MVTI_Recommendation.ipynb
